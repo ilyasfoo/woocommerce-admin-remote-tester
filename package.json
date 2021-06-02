@@ -26,6 +26,7 @@
 	},
 	"dependencies": {
 		"@woocommerce/components": "^6.1.2",
+		"@woocommerce/onboarding": "file:../woocommerce-admin/packages/onboarding",
 		"@wordpress/element": "^2.20.3",
 		"@wordpress/plugins": "^2.25.3"
 	}
